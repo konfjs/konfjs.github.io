@@ -21,6 +21,9 @@ importers:
       markdownlint-cli2:
         specifier: 0.17.2
         version: 0.17.2
+      typescript:
+        specifier: 5.7.3
+        version: 5.7.3
 
 packages:
 
