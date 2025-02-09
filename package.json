@@ -9,7 +9,9 @@
   "packageManager": "pnpm@10.2.1",
   "pnpm": {
     "onlyBuiltDependencies": [
-      "@biomejs/biome"
+      "@biomejs/biome",
+      "esbuild",
+       "sharp"
     ]
   },
   "scripts": {
