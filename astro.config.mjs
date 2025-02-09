@@ -7,9 +7,9 @@ export default defineConfig({
     site: 'https://konfjs.github.io',
     integrations: [
         starlight({
-            title: 'My Docs',
+            title: 'KonfJS',
             social: {
-                github: 'https://github.com/withastro/starlight',
+                github: 'https://github.com/konfjs/konfjs.github.io',
             },
             sidebar: [
                 {
